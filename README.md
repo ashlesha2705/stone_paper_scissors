@@ -1,1 +1,1 @@
-#Game of stone paper scissors
+# Game of stone paper scissors
